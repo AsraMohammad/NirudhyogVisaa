@@ -132,4 +132,4 @@ Given:
 ---
 
 ### **Conclusion**:
-The solution calculates the remaining capacity after accounting for the truck's weight and determines how many mangoes can fit within that capacity. The logic ensures that the truck and mangoes' combined weight never exceeds the bridge's weight limit.
+The solution calculates the remaining capacity after accounting for the truck's weight and determines how many mangoes can fit within that capacity. The logic ensures that the truck and mangoes' combined weight never exceeds the bridge's weight limit.*/
